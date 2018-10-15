@@ -1,4 +1,4 @@
-#zetianchen.github.io/study.md
+
 学习是非常重要的，用博客来推广一下我个人的笔记
 
 # 心理物理学PsychoPhysics
